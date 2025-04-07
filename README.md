@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate Backend Developer with hands-on
 ## 🚀 About Me
 
 - 🔧 Currently working as a Backend Developer with 3+ years of experience
-- 🌱 Actively learning about **Frontend (Next.js, Vue)**, **DevOps**, **AI/ML**, and **Blockchain**
+- 🌱 Actively learning about **Frontend (Next.js)**, **DevOps**, **AI/ML**, **Cloud Computing** and **Blockchain**
 - 📘 Strong interest in strengthening fundamentals in **Philosophy**, **Math**, **Logic**, and **Science**
 - 💼 Goal: Build impactful digital products, lead a team, and pitch to investors
 - 🧠 Lifelong learner with a deep passion for **tech**, **self-development**, and **business thinking**
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m a passionate Backend Developer with hands-on
 ## 🔨 Tech Stack & Tools
 
 - **Languages:** Python, PHP, Node.js, JavaScript, Go (Learning)
-- **Backend:** Express, FastAPI, Django, REST, WebSocket, Redis, RabbitMQ
+- **Backend:** Express, FastAPI, Django, Fiber, Echo, REST, WebSocket, Redis, RabbitMQ
 - **Frontend (Learning):** React, Next.js, Vue
 - **Database:** PostgreSQL, MongoDB, MySQL, Oracle
 - **Others:** Docker, Git, Celery, System Design
@@ -26,7 +26,9 @@ Welcome to my GitHub profile! I’m a passionate Backend Developer with hands-on
 
 ## 📌 Highlight Projects
 
-- **Digipactum** – A complex digital pact management system with dynamic workflow, template engine, SharePoint integration, and parallel processing using Celery.
+- **Digipactum** – A robust digital agreement management platform featuring dynamic workflow orchestration, a customizable template engine, seamless SharePoint integration, and high-performance parallel processing powered by Celery.
+- **Patricia** - A partner relationship management system designed to record, monitor, and analyze vendor and partner data, while also forecasting potential business collaborations.
+- **SIE** - An information system built to manage and facilitate extracurricular collaboration data between organizations and SMK Wiyata Satya.
 
 ---
 
