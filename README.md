@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iyans018
-- 👀 I’m interested in Back End Engineer
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on anything about back end stuff
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning System Design and Cloud Computing
+- 💞️ I’m looking forward to collaborate based on my expertise
 - 📫 How to reach me is email me at oktavian.aji18@gmail.com
 
 <!---
