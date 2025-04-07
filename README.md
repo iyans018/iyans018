@@ -26,9 +26,11 @@ Welcome to my GitHub profile! I’m a passionate Backend Developer with hands-on
 
 ## 📌 Highlight Projects
 
+- **ThesisTrack** is an experimental web-based application developed for a campus internship course. It aims to digitalize the thesis supervision process between students and lecturers, making it more efficient and flexible. By enabling online supervision sessions, the platform eliminates the need for in-person scheduling, streamlining academic interactions and document tracking. This project focuses on enhancing communication and collaboration in higher education through technology. Although it is not a production system, it serves as a practical implementation of modern web development concepts.
+- **ModuCommerce** is an experimental backend service developed as part of a final university project. It simulates an e-commerce platform using a microservices architecture, where each service communicates asynchronously through RabbitMQ with a publish/subscribe pattern. The project was designed to explore system scalability, modularity, and the practical implementation of event-driven architecture in a distributed system. Although not a production-grade application, RabbitCart demonstrates key architectural principles suitable for modern backend systems.
+- **SIE** - An information system built to manage and facilitate extracurricular collaboration data between organizations and SMK Wiyata Satya.
 - **Digipactum** – A robust digital agreement management platform featuring dynamic workflow orchestration, a customizable template engine, seamless SharePoint integration, and high-performance parallel processing powered by Celery.
 - **Patricia** - A partner relationship management system designed to record, monitor, and analyze vendor and partner data, while also forecasting potential business collaborations.
-- **SIE** - An information system built to manage and facilitate extracurricular collaboration data between organizations and SMK Wiyata Satya.
 
 ---
 
