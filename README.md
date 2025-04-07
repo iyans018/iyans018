@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate Backend Developer with hands-on
 ## 🚀 About Me
 
 - 🔧 Currently working as a Backend Developer with 3+ years of experience
-- 🌱 Actively learning about **Frontend (Next.js)**, **DevOps**, **AI/ML**, **Cloud Computing** and **Blockchain**
+- 🌱 Actively learning about **Frontend (Next.js)**, **DevOps**, **System Design**, **AI/ML**, **Cloud Computing** and **Blockchain**
 - 📘 Strong interest in strengthening fundamentals in **Philosophy**, **Math**, **Logic**, and **Science**
 - 💼 Goal: Build impactful digital products, lead a team, and pitch to investors
 - 🧠 Lifelong learner with a deep passion for **tech**, **self-development**, and **business thinking**
