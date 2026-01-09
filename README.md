@@ -1,65 +1,120 @@
-# Hi, I'm Oktavian Aji 👋
+# Hi, I'm Oktavian Aji 👋  
+Backend Engineer | Enterprise Systems | Fintech-Oriented
 
-Welcome to my GitHub profile! I’m a passionate Backend Developer with hands-on experience in **Python** and **Node.js**. I specialize in writing clean, efficient, and scalable code while maintaining a strong focus on performance optimization.
+I’m a backend engineer with 3+ years of experience building and maintaining **enterprise-scale backend systems** with complex workflows, highly relational databases, and strict data consistency requirements.
 
----
+My day-to-day work revolves around designing **transactional APIs**, optimizing database-heavy systems, introducing **asynchronous processing**, and integrating multiple services while keeping systems reliable, maintainable, and auditable.
 
-## 🚀 About Me
-
-- 🔧 Currently working as a Backend Developer with 3+ years of experience
-- 🌱 Actively learning about **Frontend (Next.js)**, **DevOps**, **System Design**, **AI/ML**, **Cloud Computing** and **Blockchain**
-- 📘 Strong interest in strengthening fundamentals in **Philosophy**, **Math**, **Logic**, and **Science**
-- 💼 Goal: Build impactful digital products, lead a team, and pitch to investors
-- 🧠 Lifelong learner with a deep passion for **tech**, **self-development**, and **business thinking**
+I’m particularly interested in **fintech systems**, not from a hype perspective, but from the engineering challenges behind them:  
+ledger consistency, approval-driven workflows, auditability, failure handling, and distributed system trade-offs.
 
 ---
 
-## 🔨 Tech Stack & Tools
+## 🧠 Engineering Mindset
 
-- **Languages:** Python, PHP, Node.js, JavaScript, Go (Learning)
-- **Backend:** Express, FastAPI, Django, Fiber, Echo, REST, WebSocket, Redis, RabbitMQ
-- **Frontend (Learning):** React, Next.js, Vue
-- **Database:** PostgreSQL, MongoDB, MySQL, Oracle
-- **Others:** Docker, Git, Celery, System Design
+I care deeply about:
+- **Correctness over cleverness**
+- **Predictable state transitions**
+- **Clear system boundaries**
+- **Trade-offs, not silver bullets**
 
----
-
-## 📌 Highlight Projects
-
-- **ThesisTrack** is an experimental web-based application developed for a campus internship course. It aims to digitalize the thesis supervision process between students and lecturers, making it more efficient and flexible. By enabling online supervision sessions, the platform eliminates the need for in-person scheduling, streamlining academic interactions and document tracking. This project focuses on enhancing communication and collaboration in higher education through technology. Although it is not a production system, it serves as a practical implementation of modern web development concepts.
-- **ModuCommerce** is an experimental backend service developed as part of a final university project. It simulates an e-commerce platform using a microservices architecture, where each service communicates asynchronously through RabbitMQ with a publish/subscribe pattern. The project was designed to explore system scalability, modularity, and the practical implementation of event-driven architecture in a distributed system. Although not a production-grade application, RabbitCart demonstrates key architectural principles suitable for modern backend systems.
-- **SIE** - An information system built to manage and facilitate extracurricular collaboration data between organizations and SMK Wiyata Satya.
-- **Digipactum** – A robust digital agreement management platform featuring dynamic workflow orchestration, a customizable template engine, seamless SharePoint integration, and high-performance parallel processing powered by Celery.
-- **Patricia** - A partner relationship management system designed to record, monitor, and analyze vendor and partner data, while also forecasting potential business collaborations.
+I strongly align with principles from *Designing Data-Intensive Applications* (DDIA):  
+**reliability, scalability, and maintainability** as first-class concerns.
 
 ---
 
-## 🎯 My Mission
+## 🛠️ Tech Stack & Tools
 
-To turn ideas into real digital products with business value. I believe in having a strong **sense of ownership**, creating **impact**, and always being curious to explore the **big picture** in every project.
+**Languages**
+- Python (Django, FastAPI)
+- Node.js (Express)
+- Go (actively upskilling)
+
+**Data & Messaging**
+- PostgreSQL, Oracle SQL
+- Redis
+- RabbitMQ, Celery
+
+**Infrastructure & Tooling**
+- Docker
+- GitLab CI/CD
+- REST APIs, OpenAPI (Swagger)
+
+**Core Concepts**
+- Transactional consistency & concurrency control  
+- Approval-driven workflows  
+- Asynchronous background processing  
+- Audit logging & traceability  
+- Distributed session & token management  
 
 ---
 
-## ✍️ Fun Facts
+## 🏢 Professional Experience (Snapshot)
 
-- I love journaling, writing, and turning my thoughts into articles and comedy bits
-- Actively working out with **calisthenics** and hitting the **gym**
-- Interested in creating products from scratch and pitching to potential investors
+At **Telkomsigma**, I work on internal enterprise platforms used by large organizations, where I’ve:
+
+- Built **approval-based change request systems** handling sensitive data with strict consistency guarantees.
+- Optimized transactional workflows and database access patterns, reducing processing time by **~50%**.
+- Introduced asynchronous job pipelines to improve throughput and resilience.
+- Integrated backend systems with external enterprise services (e.g. document storage) while preserving auditability.
+- Designed centralized login/logout mechanisms and implemented **distributed session revocation**.
+- Mentored junior engineers and standardized API design and documentation.
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🔬 Selected Projects
 
-I’m open to collaborating on:
-- 🚀 Open source projects
-- 📦 Startup MVPs or digital product ideas
-- 📊 AI/ML, Blockchain, and Web Development projects
+### Ledger-Based Transaction System
+A personal project to explore core fintech principles:
+- Double-entry ledger as an append-only source of truth
+- Idempotent transaction APIs
+- Enforcement of financial invariants
+- Concurrency and failure scenario simulation
 
-> 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/oktavian-aji-3a43b0216/) or open an issue/discussion in any of my projects!
+### Distributed Payment Flow Simulation
+- Modeled payment lifecycles: initiation, callbacks, retries, reversals
+- Asynchronous event processing with consistency safeguards
+- Tested system behavior under partial failures
 
-Thanks for visiting my profile! Let’s build something amazing together 💡
+These projects are **learning-focused**, designed to mirror real-world failure modes rather than production-scale adoption.
 
-<!---
-iyans018/iyans018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I actively write technical articles on Medium, translating hands-on backend experience into **structured, practical insights**—especially around:
+- backend architecture
+- system design trade-offs
+- distributed systems
+- engineering mindset
+
+Writing helps me clarify thinking and communicate complex ideas simply.
+
+---
+
+## 🎯 Current Focus
+
+- Deepening understanding of **distributed systems** and **financial backend design**
+- Strengthening Go for backend and systems programming
+- Expanding DevOps and infrastructure knowledge
+- Preparing for **senior/technical leadership roles**
+- Transitioning into **fintech-oriented backend engineering**
+
+---
+
+## 📌 Long-Term Vision
+
+In the long run, I aim to:
+- Lead backend teams building **reliable, high-impact systems**
+- Design platforms where correctness and clarity scale with complexity
+- Bridge technical depth with product and business understanding
+- Build systems—and teams—that people can trust
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/oktavian-aji-3a43b0216
+- Medium: https://medium.com/@oktavian.aji18
+
+Always open to discussions about backend engineering, system design, and fintech infrastructure.
