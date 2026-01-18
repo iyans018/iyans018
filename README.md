@@ -62,24 +62,6 @@ At **Telkomsigma**, I work on internal enterprise platforms used by large organi
 
 ---
 
-## 🔬 Selected Projects
-
-### Ledger-Based Transaction System
-A personal project to explore core fintech principles:
-- Double-entry ledger as an append-only source of truth
-- Idempotent transaction APIs
-- Enforcement of financial invariants
-- Concurrency and failure scenario simulation
-
-### Distributed Payment Flow Simulation
-- Modeled payment lifecycles: initiation, callbacks, retries, reversals
-- Asynchronous event processing with consistency safeguards
-- Tested system behavior under partial failures
-
-These projects are **learning-focused**, designed to mirror real-world failure modes rather than production-scale adoption.
-
----
-
 ## ✍️ Writing & Knowledge Sharing
 
 I actively write technical articles on Medium, translating hands-on backend experience into **structured, practical insights**—especially around:
